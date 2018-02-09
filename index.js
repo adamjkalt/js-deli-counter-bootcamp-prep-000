@@ -18,6 +18,6 @@ function currentLine (katzDeliLine) {
     return `The line is currently empty.`;
   }
   else (katzDeliLine > 0.5); {
-    return `The line is currently: 1. ${currentLine(0)}, 2. ${currentLine(1)}, 3. ${currentLine(2)}`;
+    return `The line is currently: 1. ${(0)}, 2. ${(1)}, 3. ${(2)}`;
     }
   }
